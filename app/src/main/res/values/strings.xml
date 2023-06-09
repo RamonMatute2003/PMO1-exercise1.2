@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMO1-exercise1.2</string>
+    <string name="btn_send">Enviar información</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="age">Edad</string>
+    <string name="email">Correo electronico</string>
+</resources>
