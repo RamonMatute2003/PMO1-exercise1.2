@@ -2,7 +2,6 @@ package com.example.pmo1_exercise12;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.util.PatternsCompat;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
