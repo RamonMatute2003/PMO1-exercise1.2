@@ -10,7 +10,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
     Button btn_send;//send=enviar
     EditText txt_name,txt_last_name,txt_age,txt_email;
 
